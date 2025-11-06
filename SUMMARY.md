@@ -1,4 +1,4 @@
 # Table of contents
 
 * [Page](README.md)
-* [🔋 Postgress](postgress.md)
+* [Postgress](postgress.md)
