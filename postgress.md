@@ -2,9 +2,7 @@
 description: Connecting P0 Security to Google Cloud SQL and Amazon RDS for PostgreSQL
 ---
 
-# 🔋 Postgress
-
-## <img src=".gitbook/assets/favicon (3).ico" alt="PostgreSQL" data-size="line"> **PostgreSQL**
+# <img src=".gitbook/assets/favicon (3).ico" alt="PostgreSQL" data-size="line"> **PostgreSQL**
 
 The PostgreSQL integration enables P0 to manage secure, granular access control for fully managed PostgreSQL databases on **Google Cloud SQL** and **Amazon RDS for PostgreSQL**. With this integration, security and platform engineering teams can automate access provisioning and de-provisioning, enforce least privilege, and audit all database access events for compliance.
 
